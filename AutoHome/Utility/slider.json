@@ -1,0 +1,28 @@
+[
+    {
+       "id":1,
+       "type":"Electricty",
+       "image":"american-football-player-no1",
+       "icon":"Universal"
+    },
+    {
+       "id":2,
+       "type":"Cards",
+       "image":"american-football-player-no2",
+       "icon":"Universal"
+       
+    },
+    {
+       "id":3,
+       "type":"Subscription",
+       "image":"american-football-player-no3",
+       "icon":"Universal"
+    },
+    {
+       "id":4,
+       "type":"Health",
+       "image":"american-football-player-no4",
+       "icon":"Universal"
+    },
+    
+]

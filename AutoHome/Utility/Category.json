@@ -1,0 +1,32 @@
+[
+    {
+       "id":1,
+       "title":"Electricty",
+       "icon":"bolt"
+    },
+    {
+       "id":2,
+       "title":"Cards",
+      "icon":"creditcard"
+    },
+    {
+       "id":3,
+       "title":"Subscription",
+      "icon":"dollarsign.square"
+    },
+    {
+       "id":4,
+       "title":"Health",
+      "icon":"lungs"
+    },
+    {
+       "id":5,
+       "title":"Gym",
+      "icon":"figure.gymnastics"
+    },
+    {
+       "id":6,
+       "title":"Lend",
+      "icon":"minus.forwardslash.plus"
+    }
+]
